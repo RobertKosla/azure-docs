@@ -41,7 +41,7 @@ Azure data security and encryption best practices discussed in this article incl
 * Enforce multi-factor authentication
 * Use role based access control (RBAC)
 * Encrypt Azure virtual machines
-* Use hardware security models
+* Use hardware security modules
 * Manage with Secure Workstations
 * Enable SQL data encryption
 * Protect data in transit
